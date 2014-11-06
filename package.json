@@ -1,0 +1,24 @@
+{
+  "name": "final-boss-cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benbarnett/final-boss-cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benbarnett/final-boss-cat/issues"
+  },
+  "homepage": "https://github.com/benbarnett/final-boss-cat",
+  "devDependencies": {
+    "6to5": "^1.10.10",
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
